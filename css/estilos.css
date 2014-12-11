@@ -1,0 +1,23 @@
+a{
+	color: #ff4102;
+}
+body{
+	background: #eee;
+	font-family: "open sans";
+	font-size: 16px;
+}
+footer{
+	background-image: url(../img/fondocabecera3.jpg);
+	color: rgba(255,255,255,0.7);
+	padding: 1em;
+	text-align: center;
+}
+header{
+	background-image: url(../img/fondocabecera.jpg);
+	color: rgba(255,255,255,0.7);
+	padding: 1em;
+	
+}
+figure{
+	width: 20%;
+	}
